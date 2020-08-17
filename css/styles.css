@@ -136,7 +136,7 @@ body {
   background-position: center;
 }
 #specials-tile {
-  background: url('../images/specials-tile.jpg') no-repeat;
+  background: url('https://github.com/Khin-Than-Nyunt/Module5_Assignment_Solution/blob/master/images/specials-tile.jpg') no-repeat;
   background-position: center;
 }
 #menu-tile span, #specials-tile span, #map-tile span {
